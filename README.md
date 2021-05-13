@@ -48,3 +48,6 @@ By refering this you can change the result according to your need
 
 # References API
 https://apisetu.gov.in/public/api/cowin#/
+
+# Pyhton Script Automation Steps
+https://www.jcchouinard.com/python-automation-using-task-scheduler/
